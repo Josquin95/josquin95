@@ -1,2 +1,2 @@
-# josquin95.github.com
-Mi portafolio
+# MY PORTAFOLIO
+http://josquin95.github.com
